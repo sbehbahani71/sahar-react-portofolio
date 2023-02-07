@@ -1,13 +1,15 @@
+
 import { BsFillMoonStarsFill } from "react-icons/bs";
 
 
 
 const NavBar=()=>{
+
   return (
     <>
     
           <nav className="py-10 mb-12 flex justify-between mx-10">
-            <h1 className="text-xl font-bonnevarc">Developed By Sahar</h1>
+            <h1 className="text-xl ">Developed By Sahar</h1>
             <ul className="flex items-center">
               <li className="cursor-pointer text-2xl">
                 <BsFillMoonStarsFill />
